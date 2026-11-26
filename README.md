@@ -16,7 +16,7 @@ This project pairs a minimal host-side VMM with a guest kernel, both in C++. The
 ## Requirements
 
 - x86-64 Linux host with KVM enabled (`/dev/kvm` accessible)
-- GCC (C++)/CLang
+- g++ (GCC) by default; Clang also works after editing the compiler settings in the Makefile
 - Make
 
 ## Build and run
