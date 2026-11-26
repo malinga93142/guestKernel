@@ -1,0 +1,10 @@
+*.d
+*.o
+*.elf
+*.bin
+*.dat
+*.txt
+CLI11.hpp
+project/
+devel/
+source/
