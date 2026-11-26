@@ -29,3 +29,6 @@ $ make run
 ## Status and scope
 
 This is an experiment, so expect missing features and rough edges. It is a learning project, with no stability, security, or compatibility guarantees. Parts of the design are intentionally not documented here.
+## Code style
+
+Indentation is one tab per level, chosen for clarity and compactness. If your editor renders tabs wider than you'd like, set the tab width to 4 (or whatever you prefer) rather than converting to spaces.
